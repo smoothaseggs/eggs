@@ -1,3 +1,3 @@
 # eggs
 
-readme update
+readme update dos
